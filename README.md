@@ -1,4 +1,4 @@
-# Rocketpay
+# Start Rocketpay
 
 To start your Phoenix server:
 
@@ -9,6 +9,12 @@ To start your Phoenix server:
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+
+# Info
+
+In this amazing learning exercise I learned to make an user account using Postgress inside a Docker image
+where the user can withdraw/deposit using best practices on the Elixir language, a very unique one.
+Libraries used include Ecto, Phoenix, Multi, Decimal.
 
 ## Learn more
 
